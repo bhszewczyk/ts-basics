@@ -5,7 +5,7 @@
 - number
 - bigInt
 - symbol
-- Array&lt;number&gt;
+- Array&lt;type&gt;
 - any
 - object
 - alias
