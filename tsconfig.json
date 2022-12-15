@@ -1,7 +1,8 @@
 {
 	"compilerOptions": {
-		"target": "es2017",
+		"target": "es2015",
 		"outDir": "dist",
-		"rootDir": "src"
+		"rootDir": "src",
+		"strict": true
 	}
 }
